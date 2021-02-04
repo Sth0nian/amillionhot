@@ -13,6 +13,16 @@ Get to a million scovilles or suffer trying
 | Clerner |   |   |   |   |   |   |   |   |   |   |
 | Kerng |   |   |   |   |   |   |   |   |   |   |
 
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
+
 ### RULES
 1) SAUWS eating has to be recorded and verified by two.
 2) SAUWS has to be listed below and verified by hot-sauce authority something like https://pepperheadsforlife.com/hot-sauce-scale/ or https://www.scovillescale.org/hot-sauce-scoville-scale/.
