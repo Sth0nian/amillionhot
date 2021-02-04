@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## A Million Hot
 
-You can use the [editor on GitHub](https://github.com/Sth0nian/amillionhot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Get to a million scovilles or suffer trying
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CONTENDERS / RANKINGS
+| X | 100k  | 200k  | 300k | 400k  | 500k  | 600k  | 700k  | 800k  | 900k  | 1mil baby  |
+|---|---|---|---|---|---|---|---|---|---|---|
+|Gebs|   |   |   |   |   |   |   |   |   |   |
+|Rymen|   |   |   |   |   |   |   |   |   |   |
+|Clerner|   |   |   |   |   |   |   |   |   |   |
+|Kerng|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |   |
 
-### Markdown
+### RULES
+1) SAUWS eating has to be recorded and verified by two.
+2) SAUWS has to be listed below and verified by hot-sauce authority something like https://pepperheadsforlife.com/hot-sauce-scale/ or https://www.scovillescale.org/hot-sauce-scoville-scale/.
+3) SAUWS has to be eaten and to complete a stage you cannot eat any coolant for 5 minutes after ingesting.
+4) DIPRS cannot diminish the heat of the SAUWS. (see [DIPRS](#DIPRS))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### DIPRS
+#### Permitted:
+- Chicken Dippers
+- Crackers
+- Finger
+- Fries
 
-# Header 1
-## Header 2
-### Header 3
+#### Not Permitted:
+- Cucumber
+- Bucket of yoghurt
+- Any form of Ice-Cream
 
-- Bulleted
-- List
+### SAUWSES
+#### 100k
 
-1. Numbered
-2. List
+#### 200k
 
-**Bold** and _Italic_ and `Code` text
+#### 300k
 
-[Link](url) and ![Image](src)
-```
+#### 400k
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 500k
 
-### Jekyll Themes
+#### 600k
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sth0nian/amillionhot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### 700k
 
-### Support or Contact
+#### 800k
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 900k
+
+#### hundo-hundo-hundo
+
+
+
+
