@@ -5,6 +5,9 @@ layout: default
 
 Get to a million scovilles or suffer trying
 
+## Git SAUWSY
+To join, open an issue [here](https://github.com/Sth0nian/amillionhot/issues) with the `get sauwsy` label stating why you want to join and your name for the table.
+
 ### CONTENDERS / RANKINGS
 
 | X/F     | 100k | 200k | 300k | 400k | 500k | 600k | 700k | 800k | 900k | 1mil baby |
