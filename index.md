@@ -4,14 +4,11 @@ Get to a million scovilles or suffer trying
 
 ### CONTENDERS / RANKINGS
 | X | 100k  | 200k  | 300k | 400k  | 500k  | 600k  | 700k  | 800k  | 900k  | 1mil baby  |
-|---|---|---|---|---|---|---|---|---|---|---|
+|:---|:---|:--|:---|:---|:---|:---|:---|:---|:---|:---|
 |Gebs|   |   |   |   |   |   |   |   |   |   |
 |Rymen|   |   |   |   |   |   |   |   |   |   |
 |Clerner|   |   |   |   |   |   |   |   |   |   |
 |Kerng|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |   |
 
 ### RULES
 1) SAUWS eating has to be recorded and verified by two.
