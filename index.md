@@ -6,7 +6,7 @@ layout: default
 Get to a million scovilles or suffer trying
 
 ## Git SAUWSY
-To join, open an issue [here](https://github.com/Sth0nian/amillionhot/issues) with the `get sauwsy` label stating why you want to join and your name for the table.
+To join, open an issue [here](https://github.com/Sth0nian/amillionhot/issues) with the `get sauwsy` label stating why you want to join, who referred you (has to be on the table already) and your name for the table.
 
 ### CONTENDERS / RANKINGS
 
