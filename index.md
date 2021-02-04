@@ -22,7 +22,7 @@ To join, open an issue [here](https://github.com/Sth0nian/amillionhot/issues) wi
 ### RULES
 
 - SAUWS eating has to be recorded and verified by two.
-- SAUWS has to be listed below and verified by hot-sauce authority something like [phfl](https://pepperheadsforlife.com/hot-sauce-scale/) or [scovillescale](https://www.scovillescale.org/hot-sauce-scoville-scale/).
+- SAUWS has to be listed below and verified by hot-sauce authority something like [phfl](https://pepperheadsforlife.com/hot-sauce-scale/) or [scovillescale](https://www.scovillescale.org/hot-sauce-scoville-scale/) or a hot-ones-.
 - SAUWS has to be eaten and to complete a stage you cannot eat any coolant for 5 minutes after ingesting. Completing the 5 minutes get an X. Failing gets an F.
 - DIPRS cannot diminish the heat of the SAUWS. (see [DIPRS](#DIPRS))
   - Permitted:
@@ -37,9 +37,9 @@ To join, open an issue [here](https://github.com/Sth0nian/amillionhot/issues) wi
 
 ### SAUWSES
 #### 100k
-
+116,000 [Torchbearer Garlic Reaper](https://www.reddit.com/r/spicy/comments/agzflj/hot_ones_season_8_lineup_revealed/)
 #### 200k
-
+200,000 [FIRELAND FOODS End of Sanity](https://www.amazon.co.uk/FIRELAND-Sanity-Hot-Sauce-200-000-Scoville/dp/B00OY93SB6)
 #### 300k
 
 #### 400k
