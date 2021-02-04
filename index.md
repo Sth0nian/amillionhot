@@ -16,8 +16,8 @@ To join, open an issue [here](https://github.com/Sth0nian/amillionhot/issues) wi
 | Rymen   |      |      |      |      |      |      |      |      |      |           |
 | Clerner |      |      |      |      |      |      |      |      |      |           |
 | Nertely |      |      |      |      |      |      |      |      |      |           |
+| Jerlrna |      |      |      |      |      |      |      |      |      |           |
 | Kerng   |      |      |      |      |      |      |      |      |      |           |
-
 
 
 ### RULES
