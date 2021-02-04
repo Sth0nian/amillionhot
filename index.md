@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## A Million Hot
 
 Get to a million scovilles or suffer trying
