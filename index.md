@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-![chili](PEPPER.png)
 Get to a million scovilles or suffer trying
 
 ## Git SAUWSY
