@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-## A Million Hot
-
+![chili](https://cms-en.kotanyi.com/wp-content/uploads/2019/05/chipotle-kotanyi-inhalt-256x256.png)
+## A Million Hot 
 Get to a million scovilles or suffer trying
 
 ## Git SAUWSY
